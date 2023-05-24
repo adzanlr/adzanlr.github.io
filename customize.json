@@ -3,14 +3,14 @@
   "name": "Cika",
   "greetingText": "I really like your name btw!",
   "wishText": "May the luck always be with you! ;)",
-  "imagePath": "img/C1.jpg",
+  "imagePath": "img/c3.jpeg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah... idk what i want to say",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
   "text4": "I realised, I wanted to do something",
-  "text4Adjective": "little bit special for u",
+  "text4Adjective": "little special for u",
   "text5Entry": "Because,",
   "text5Content": "You are ma mine",
   "smiley": ":)",
@@ -19,5 +19,5 @@
   "wishHeading": "Happy Birthday!",
   "outroText": "Okay, now come back and tell me if you liked it.",
   "replayText": "i hope ur dreams and ambition will come true cik, especially ur study mwhehee.",
-  "outroSmiley": "and i'll wait till we meet soon"
+  "outroSmiley": "and i'll wait till we meet soon!"
 }
